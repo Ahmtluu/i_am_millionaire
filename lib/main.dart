@@ -16,7 +16,7 @@ class I_am_millionaire extends StatelessWidget {
           home: Scaffold(
             appBar: AppBar(
               backgroundColor: Colors.teal,
-              title: Center(child: Text("I Am Millionaire !")),
+              title: Center(child: Text("Millionaire Boy!")),
             ),
             body: Center(
               child: Column(
@@ -27,7 +27,7 @@ class I_am_millionaire extends StatelessWidget {
                     width: 250,
                   ),
                   SizedBox(height: 10,),
-                  Text("YEAH! You know I'm millionaire!",
+                  Text("Yay! U know I'm millionaire!",
                     style: TextStyle(
                       fontSize: 25,
                       fontFamily:"Source Sans Pro",
