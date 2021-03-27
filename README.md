@@ -1,14 +1,6 @@
 # Yay! U know I'm millionaire!
 
-A new Flutter application.
+This is my first Flutter App. Yay! U know I'm millionaire :) In this project, I just wanna learn how to use Material App, Scaffold, AssetImage and Fonts and of course Stateless Widget. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you wanna use image that i used on this project, please visit https://undraw.co/  I'm not owner this pic. I just used for this project and I think it is free for personal usage.
 
