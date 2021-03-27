@@ -1,4 +1,4 @@
-# Yay! U know I'm Millionaire!
+# Yay! U know I'm millionaire!
 
 A new Flutter application.
 
